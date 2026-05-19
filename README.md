@@ -8,7 +8,8 @@
 - 🧐: I'm interested in cybersecurity
 
 
-![](https://raw.githubusercontent.com/GabrielBermudezMiranda/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/GabrielBermudezMiranda/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/GabrielBermudezMiranda/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/GabrielBermudezMiranda/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+![](https://github.com/GabrielBermudezMiranda/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/GabrielBermudezMiranda/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/GabrielBermudezMiranda/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/GabrielBermudezMiranda/github-stats/blob/generated/languages.svg#gh-light-mode-only)
